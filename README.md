@@ -7,6 +7,7 @@
 
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 [![C++](https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social)](https://github.com/adamalston?tab=repositories&q=&type=&language=javascript)
+[![Solidity](https://img.shields.io/badge/-Solidity-000?&logo=solidity)]()
 
 
 
@@ -14,6 +15,7 @@
 ### Some of the technologies I have worked with
 
 
+![Blockchain](https://img.shields.io/badge/Blockchain-DeFi-blue)
 ![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing%20-blue)
 ![DL](https://img.shields.io/badge/ML-Deep%20Learning-red)
 ![FastAPI](https://img.shields.io/static/v1?label=Python&message=FastAPI&color=%3Cblue%3E)
@@ -24,6 +26,7 @@
 ![Postgresql](https://img.shields.io/badge/PostgreSQL--000000?style=flat&logo=postgresql)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 ![Solidity](https://img.shields.io/badge/solidity--brightgreen)
+![Bitcoin](https://img.shields.io/badge/Blockchain-Bitcoin-yellow)
 
 
 
