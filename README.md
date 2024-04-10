@@ -23,6 +23,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub--000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL--000000?style=flat&logo=postgresql)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Solidity](https://img.shields.io/badge/solidity--brightgreen)
 
 
 
